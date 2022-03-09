@@ -87,4 +87,7 @@ I can deploy website to azure
 
 > KeyVault soft delete
 
+> terraform destroy
+
 > terraform cloud configuration as code
+
